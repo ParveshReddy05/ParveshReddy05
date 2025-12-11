@@ -29,7 +29,7 @@
 | **To-Do List App** | Add, delete, manage tasks | HTML, CSS, JS | [Live Demo](#) • [Code](#) |
 | **Responsive Landing Page** | Modern UI landing page | HTML, CSS | [Live Demo](#) • [Code](#) |
 
-_(Replace # with your real project links once ready)_
+
 
 ---
 
