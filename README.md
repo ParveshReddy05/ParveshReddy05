@@ -44,7 +44,7 @@ _(Replace # with your real project links once ready)_
 ### 📫 Contact Me
 - Email: **parveshreddy05@gmail.com**
 - LinkedIn: **www.linkedin.com/in/parvesh-reddy-573768385**
-- Portfolio: *(if you build one)*
+- Portfolio: 
 
 ---
 
