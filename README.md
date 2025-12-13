@@ -27,7 +27,7 @@
 | **Portfolio Website** | My personal portfolio website | HTML, CSS, JS | [Live Demo](#) • [Code](#) |
 | **Weather App** | Shows weather using OpenWeather API | JS, API | [Live Demo](#) • [Code](#) |
 | **To-Do List App** | Add, delete, manage tasks | HTML, CSS, JS | [Live Demo](#) • [Code](#) |
-| **Responsive Landing Page** | Modern UI landing page | HTML, CSS | [Live Demo](#) • [Code](#) |
+| **Responsive Landing Page** | Modern UI landing page | HTML, CSS | [Live Demo](https://ParveshReddy05.github.io/Parvesh-Fitness-Club/) • [Code](https://github.com/ParveshReddy05/Parvesh-Fitness-Club) |
 
 
 
