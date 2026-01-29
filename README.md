@@ -1,51 +1,61 @@
-<h1 align="center">Hi, I'm Parvesh 👋</h1>
+<h1 align="center">Hi, I'm Parvesh</h1>
 
-<h3 align="center">🌐 Frontend Web Developer | Building beautiful and responsive websites</h3>
-
----
-
-### 🚀 About Me
-- 👨‍💻 Passionate about Frontend Development  
-- 🧰 Skilled in **HTML, CSS, JavaScript, Bootstrap**  
-- 🌱 Currently learning **React JS**  
-- 🎯 Goal: Get a remote internship & build real-world projects  
-- ⚡ Love solving problems & learning new tools  
+<h3 align="center">QA / Software Testing Intern | Manual Testing | Bug Reporting</h3>
 
 ---
 
-### 🛠 Skills & Tools
-**Frontend:** HTML, CSS, JavaScript, Bootstrap  
-**Version Control:** Git, GitHub  
-**Tools:** VS Code, Figma, GitHub Pages, Netlify  
+## About Me
+I am a detail-oriented QA enthusiast with a strong interest in improving product quality through manual testing and clear communication. I enjoy testing real-world web applications, identifying issues, and collaborating with teams to deliver reliable user experiences. I am actively seeking a **remote QA / software testing internship** where I can learn, contribute, and grow.
 
 ---
 
-### 📂 Projects
-
-| Project | Description | Tech | Links |
-|--------|-------------|------|-------|
-| **Portfolio Website** | My personal portfolio website | HTML, CSS, JS | [Live Demo](#) • [Code](#) |
-| **Weather App** | Shows weather using OpenWeather API | JS, API | [Live Demo](#) • [Code](#) |
-| **To-Do List App** | Add, delete, manage tasks | HTML, CSS, JS | [Live Demo](#) • [Code](#) |
-| **Responsive Landing Page** | Modern UI landing page | HTML, CSS | [Live Demo](https://ParveshReddy05.github.io/Parvesh-Fitness-Club/) • [Code](https://github.com/ParveshReddy05/Parvesh-Fitness-Club) |
-
-
+## Core QA Skills
+- Manual Software Testing  
+- Test Case Design & Execution  
+- Bug Identification & Reporting  
+- Functional & UI Testing  
+- Regression Testing  
+- Severity vs Priority Analysis  
+- SDLC / STLC (Basics)
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParveshReddy05&show_icons=true&theme=tokyonight)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParveshReddy05&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Contact Me
-- Email: **parveshreddy05@gmail.com**
-- LinkedIn: **www.linkedin.com/in/parvesh-reddy-573768385**
-- Portfolio: 
+## Tools & Technologies
+- Bug Tracking: Jira (basic)  
+- Documentation: Google Sheets, Excel  
+- Version Control: Git, GitHub  
+- Testing Focus: Web applications (React / Node-based apps)
 
 ---
 
-⭐ *Thanks for visiting! Connect with me to collaborate.*
+## QA Projects
+### Manual QA Testing – Web Application
+- Designed and executed structured test cases for core user flows  
+- Identified and documented bugs with clear reproduction steps  
+- Reported issues with expected vs actual results and screenshots  
+- Organized test cases and bug reports for easy review  
+
+📌 *Project repository includes test cases and bug reports*
+
+---
+
+## Currently Learning
+- QA workflows in startup environments  
+- Jira issue management  
+- Test automation fundamentals (Python / Selenium)
+
+---
+
+## Availability
+- Open to **remote QA / software testing internship opportunities**    
+- Comfortable working asynchronously with distributed teams  
+
+---
+
+## Contact
+- Email: **parveshreddy05@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/parvesh-reddy-573768385**  
+
+---
+
+Thank you for visiting my profile.
